@@ -1,2 +1,3 @@
+
 # c = input()
 print(input())
